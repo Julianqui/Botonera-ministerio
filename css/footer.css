@@ -1,0 +1,18 @@
+footer{
+
+    background-color: var(--bluelight);
+
+    padding-bottom: 3%;
+
+    margin-top: 5%;
+
+}
+
+.footer-link p a{
+
+    font-size: 20px;
+
+    text-decoration: none;
+
+    color: var(--white);
+}

@@ -1,0 +1,17 @@
+*{
+    font-family: 'Encode Sans', sans-serif;
+}
+
+body{
+    overflow-x: hidden;
+}
+
+.bg-celeste{
+
+    background-color: var(--bluelight);
+
+}
+
+ p {
+      font-weight: 500;
+  }

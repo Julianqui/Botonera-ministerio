@@ -1,0 +1,100 @@
+@media (max-width: 1024px) {
+
+    footer {
+
+        text-align: center;
+
+        padding-bottom: 10%;
+    }
+
+    .titulo-banner{
+        margin-top: 30%;
+    }
+
+    .cuerpo-second{
+        margin-top: 14%;
+    }
+
+    .cuerpo-fifth{
+        margin-top: 15%;
+    }
+
+    .card-border-bottom{
+        border-bottom-left-radius: 8px;
+        border-bottom-right-radius: 14px;
+    }
+
+
+}
+
+@media (max-width: 1024px) {
+
+    footer {
+
+        text-align: center;
+
+        padding-bottom: 5%;
+    }
+
+    .titulo-banner{
+        margin-top: 30%;
+    }
+
+    .cuerpo-second{
+        margin-top: 1%;
+    }
+
+    .cuerpo-fifth{
+        margin-top: 15%;
+    }
+
+
+
+}
+
+
+@media (max-width: 768px) {
+    footer {
+
+        text-align: center;
+
+        padding-bottom: 10%;
+
+    }
+
+    .cuerpo-second{
+        margin-top: 13%;
+    }
+
+    .cuerpo-fifth{
+        margin-top: 15%;
+    }
+
+
+
+}
+
+
+@media (max-width: 736px) {
+    footer {
+
+        text-align: center;
+
+        padding-bottom: 15%;
+
+    }
+
+    .cuerpo-second{
+        margin-top: 0%;
+    }
+
+    .cuerpo-fifth{
+        margin-top: 0%;
+    }
+
+
+
+}
+
+
+

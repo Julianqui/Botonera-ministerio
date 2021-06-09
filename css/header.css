@@ -1,0 +1,19 @@
+.hamburguer{
+
+    font-size: 35px;
+
+    cursor: pointer;
+
+}
+
+.btn-outline-primary {
+    color: #0072bb;
+    background-color: #fff;
+    border: 3px solid #ddd!important;
+
+}
+.btn-outline-primary:hover {
+    color: #0072bb;
+    background-color: #f2f2f2!important;
+}
+

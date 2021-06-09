@@ -1,0 +1,164 @@
+.contenedo{
+    min-height: calc( 100vh - 8.1vh);
+}
+
+.card-deck{
+
+    margin-top: 10%;
+
+}
+
+.card-size{
+
+    height: 200px;
+
+    background-color: var(--violet);
+
+}
+
+.card-header{
+    background-color: var(--bluelight);
+}
+
+.card-border-top{
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.card-border-bottom{
+    border-bottom-left-radius: 17px;
+    border-bottom-right-radius: 17px;
+}
+
+.card-border-bottom-color{
+    border-bottom-left-radius: 35px;
+    border-bottom-right-radius: 35px;
+    height: 4%;
+}
+
+.text-white{
+
+}
+
+.card-pie{
+    height: 2%;
+}
+
+a h5{
+    color: #333333;
+}
+
+a p {
+    color: #7D7D7D;
+    text-decoration: none;
+    margin-top: 5%;
+}
+
+a{
+    margin-top: 5%;
+}
+
+.titulo-card:hover{
+    color: #F2F2F2;
+}
+
+.card:hover{
+    background-color: #F2F2F2;
+    z-index: 100;
+    color: #F2F2F2;
+}
+
+.container-fluid-body{
+    margin-left: 9%;
+    margin-right: 9%;
+}
+
+.col-md-4{
+    width: 900px !important;
+}
+
+#fondo {
+    background-image: url("../img/servicios_digitales_2.jpg") ;
+    text-align: center;
+    background-position: center center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    position: relative;
+    padding: 7%;
+    height: 400px;
+}
+
+#fondo:before {
+    content:'';
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0,0,0,0.6);
+}
+
+
+
+a.panel h1, a.panel h2, a.panel h3, a.panel h4, a.panel h5, a.panel h6, a.panel p, a.panel small, a.panel span {
+    transition: color .15s;
+    transition-property: color;
+    transition-duration: 0.15s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+
+
+.display-3 {
+    font-size: 4.5rem;
+    font-weight: 300;
+    line-height: 1.2;
+}
+.h1, h1 {
+    font-size: 2.5rem;
+}
+
+#fondo h1 {
+    font-size: 55px;
+    color: #fff;
+    position: relative
+}
+
+#fondo > h3 {
+    color: #fff;
+    position: relative
+}
+
+.pt-5, .py-5 {
+     padding-top: 0rem!important;
+}
+
+.texto{
+    background-color: #F2F2F2;
+}
+
+.inside-bammer{
+    height: 10%;
+}
+
+.link{
+    cursor: default;
+}
+
+.pointer{
+    cursor: pointer;
+}
+
+.contenido-card{
+    max-height: 300px;
+    min-height: 200px;
+}
